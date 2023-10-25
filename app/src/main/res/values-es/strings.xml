@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_exit_description">Salir de la vista</string>
+    <string name="instagram_icon_description">Icono de instagram</string>
+    <string name="edit_text_mail_hint">Teléfono, nombre de usuario o email</string>
+    <string name="edit_text_password">Contraseña</string>
+    <string name="text_forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="button_log_in">Entrar</string>
+    <string name="text_or">O</string>
+    <string name="facebook_icon_content_description">Icono de Facebook</string>
+    <string name="text_continue_with_faccebook">Continuar como Dave Johnson</string>
+    <string name="text_sign_up">Registrate.</string>
+    <string name="text_dont_you_have_an_account">¿No tienes cuenta?</string>
+    <string name="sign_up_title">Elige un nombre de usuario</string>
+    <string name="sign_up_description">Puedes cambiarlo más tarde.</string>
+    <string name="sign_up_error_message">Los nombres de usuario sólo pueden contener letras, números, guiones bajos y puntos.</string>
+    <string name="sign_up_username_hint">Nombre de usuario</string>
+    <string name="sign_up_user_description_hint">Descríbete en una frase.</string>
+    <string name="sign_up_button">Crear cuenta</string>
+    <string name="profile_amount">0</string>
+    <string name="profile_post_title">Publicaciones</string>
+    <string name="profile_followers_title">Seguidores</string>
+    <string name="profile_following">Siguiendo</string>
+    <string name="profile_description_dummy">This is a description 😊😎</string>
+    <string name="profile_edit_btn">Editar perfil</string>
+    <string name="profile_share_btn">Compartir perfil</string>
+    <string name="profile_no_post">Aún no tienes ninguna publicación.</string>
+</resources>
